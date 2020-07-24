@@ -1,5 +1,3 @@
-<?php
-/**
  * Plugin Name:       Make Hashing Simple
  * Plugin URI:        https://github.com/sanket9006/Wordpress-Plugin-Make-Hashing-Simple
  * Description:       Converts given string into hashed value
@@ -8,4 +6,3 @@
  * Requires PHP:      7.2
  * Author:            Sanket Patil
  * Author URI:        https://www.sanketpatil.me/
- */
